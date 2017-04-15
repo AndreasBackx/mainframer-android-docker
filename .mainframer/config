@@ -1,0 +1,5 @@
+remote_machine=user@host
+
+android_target_sdk=25
+android_build_tools=25.0.2
+android_sdk_tools=25.2.5
